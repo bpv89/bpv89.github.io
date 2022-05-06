@@ -1,0 +1,38 @@
+body{
+    background-color: #1B998B;
+    margin-left: 1cm;
+    
+    text-align: justify;
+            }
+img{
+    position: relative;
+            }
+p{
+    color: #f8f1ff;
+}
+h1{
+    color: #DECDF5;
+            }
+ul{
+    color: #f8f1ff;
+}
+
+h2 {
+    color: #656176;
+}
+h3{
+    color: #f8f1ff;
+}
+.topo{
+    background-color:  #534d56;
+    font-size: 20px;
+    color: #f8f1ff;
+
+}
+.image{
+    top: 50%;
+    left: 50%;
+
+    
+                }
+    
