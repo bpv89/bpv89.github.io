@@ -4,35 +4,40 @@ body{
     
     text-align: justify;
             }
+
 img{
-    position: relative;
-            }
-p{
-    color: #f8f1ff;
+    width: 40%;
+    margin-left: 10px;
+    background-color: antiquewhite;
+    padding: 10px;
+    border-radius: 10%;
+    
+}
+.header-foto p{
+    border: 10px solid green;
+    width: 40%;
+    text-align: center;
+
+    
+}
+.habilidades{
+    width: 90%;
+    display: flex   ;
+    border: 10px solid blue;
+    text-align: center;
+    
+}
+
+.header-foto{
+    border: 10px solid red;
+    
+    display: flex;
+    width: 90%;
 }
 h1{
-    color: #DECDF5;
-            }
+    text-align: center;
+}
 ul{
-    color: #f8f1ff;
+    list-style: none;
+    text-align: center;
 }
-
-h2 {
-    color: #656176;
-}
-h3{
-    color: #f8f1ff;
-}
-.topo{
-    background-color:  #534d56;
-    font-size: 20px;
-    color: #f8f1ff;
-
-}
-.image{
-    top: 50%;
-    left: 50%;
-
-    
-                }
-    
